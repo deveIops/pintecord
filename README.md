@@ -22,12 +22,12 @@ pip install -r requirements.txt
 Ajoutez un fichier .env à la racine du projet avec les informations suivantes :
 
 ```sh
-DISCORD_TOKEN= ton token de bot
-LOG_CHANNEL_ID= ID de channel des logs
-EXEMPT_CHANNEL_ID= channel qui sera bypass des upload photo ( genre channel admin ) 
-PROFILE_PIC_CHANNEL_ID= ID du channel ou le bot enverra des photos aléatoire
-TARGET_GUILD_ID= l'id de ton serveur ou y'aura le bot, pour éviter les bug si le bot est sur plusieurs serv
-DOUBLE_IMAGE_CHANNEL_ID= ID de ton channel pour les pp lié
+DISCORD_TOKEN=
+LOG_CHANNEL_ID=
+EXEMPT_CHANNEL_ID=
+PROFILE_PIC_CHANNEL_ID=
+TARGET_GUILD_ID=
+DOUBLE_IMAGE_CHANNEL_ID=
 ````
 
 🎯 Utilisation
