@@ -1,4 +1,4 @@
-BOT DISCORD PFP
+🤖 BOT DISCORD PFP
 
 📚 Description
 
